@@ -4,7 +4,7 @@ The original files are all made in EAGLE. Because Autodesk will no longer sell n
 All 'pcb' filders contain subfolders with the original files, versions converted to the older EAGLE v7 format that is needed for the KiCAD import functionality, and Versions in KiCad format.
 
 As of 2026-06-03 those files might not be complete and are untested.
-The KiCad importer for EAGLE is quite good but do expect small errors.
+The KiCad importer for EAGLE is quite good but do expect small errors. It looks like all oval holes got lost!
 
 I added [cvpal](https://github.com/pichenettes/cvpal) to this repository for completeness sake, it is not originally part of the MI eurorack repository.
 
