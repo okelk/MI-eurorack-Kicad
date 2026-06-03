@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "streams_v02_bargraph-eagle-import") (type "KiCad") (uri "${KIPRJMOD}/streams_v02_bargraph-eagle-import.kicad_sym") (options "") (descr ""))
+)
