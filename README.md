@@ -1,3 +1,15 @@
+This a fork of the Mutable Instruments Eurorack repository.
+The original files are all made in EAGLE. Because Autodesk will no longer sell nor support EAGLE effective June 7, 2026 this repository aims to archive them in a more future-proof format for KiCad.
+
+All 'pcb' filders contain subfolders with the original files, versions converted to the older EAGLE v7 format that is needed for the KiCAD import functionality, and Versions in KiCad format.
+
+As of 2026-06-03 those files might not be complete and are untested.
+The KiCad importer for EAGLE is quite good but do expect small errors.
+
+I added [cvpal](https://github.com/pichenettes/cvpal) to this repository for completeness sake, it is not originally part of the MI eurorack repository.
+
+
+
 Mutable Instruments' Eurorack Modules.
 
 * [Blades](http://mutable-instruments.net/modules/blades): Dual multimode filter.
